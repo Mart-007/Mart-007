@@ -1,5 +1,5 @@
 ### Hi there, I'm Mart!👋
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%">
+<img src="https://www.mathwarehouse.com/animated-gifs/images/sequences-series/sum-of-n-numbers-gauss-animation.gif width="100%" height="60%">
 
 
